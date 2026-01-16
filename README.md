@@ -212,13 +212,4 @@ If this project excites you, ⭐ star the repo and help grow the campus.
 
 ---
 
-### Strong opinion to end with:
-This README already puts your project **above 90% of student repos**.  
-Next level would be:
-- screenshots section
-- demo link
-- architecture diagram
 
-When you’re ready — we’ll do that too 🚀
-  "enabled": true
-}
